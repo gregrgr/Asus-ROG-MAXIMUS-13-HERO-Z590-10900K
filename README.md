@@ -1,4 +1,4 @@
-# EFI • Asus ROG MAXIMUS 13 HERO Z590 • i9-10900K • RX 6800 XT • UHD630 
+# EFI • Asus ROG MAXIMUS 13 HERO Z590 • i9-10900K • RX 560D • UHD630 
 ## Hardware
 
 | Component    | Variant            | 
